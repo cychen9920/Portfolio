@@ -23,4 +23,4 @@ A basic website with some of my favorite recipes! Built with HTML/CSS.
 
 [Live Demo](https://cychen9920.github.io/Recipe-book/)
 
-[Source Code](https://github.com/cychen9920/Recipe-book/settings/pages)
+[Source Code](https://github.com/cychen9920/Recipe-book)
