@@ -1,5 +1,11 @@
 # Portfolio
-A (growing) portfolio of my CS projects!
+A (growing) portfolio of my projects.
+
+## 🧠 CodeAtlas: AI Codebase Explainer
+
+A simple AI-powered codebase explainer that lets users index a GitHub repository or local folder, ask questions about the codebase, and receive relevant source sections with file and line citations. Built with Node.js, vanilla JavaScript, and OpenAI embeddings for semantic code retrieval.
+
+[Source Code](https://github.com/cychen9920/CodeAtlas)
 
 ## 🌎 Interactive Map Project
 
