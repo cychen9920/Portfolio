@@ -23,10 +23,3 @@ A fine-tuned RoBERTa-based NLP model to classify biomedical publications into th
 
 [Source Code and Results](https://github.com/cychen9920/Biomedical_Text_Classification_NLP)
 
-## 🍔 Recipe Book Project
-
-A basic website with some of my favorite recipes! Built with HTML/CSS.
-
-[Live Demo](https://cychen9920.github.io/Recipe-book/)
-
-[Source Code](https://github.com/cychen9920/Recipe-book)
