@@ -7,6 +7,12 @@ An AI-powered codebase explainer that lets users index a GitHub repository or lo
 
 [Source Code](https://github.com/cychen9920/CodeAtlas)
 
+
+## 🛋️ InteriorStyle: Visual Search for Interior Design
+A semantic search app for interior design inspiration. Users can search a local image collection with text queries or upload an image to find visually similar interiors. Built with Python, PyTorch/OpenCLIP, NumPy cosine similarity search, and Streamlit.
+
+[Source Code](https://github.com/cychen9920/InteriorStyle) 
+
 ## 🌎 Interactive Map Project
 
 An interactive Google Map app where users can add, view, and delete custom markers. Built with React, Express, Render, and Netlify.
