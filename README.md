@@ -9,9 +9,16 @@ An AI-powered codebase explainer that lets users index a GitHub repository or lo
 
 
 ## 🛋️ InteriorStyle: Visual Search for Interior Design
-A semantic search app for interior design inspiration. Users can search a local image collection with text queries or upload an image to find visually similar interiors. Built with Python, PyTorch/OpenCLIP, NumPy cosine similarity search, and Streamlit.
+
+A semantic search app for interior design inspiration. Users can search a local image collection via text query or upload an image to find visually similar interiors. Built with Python, PyTorch/OpenCLIP, NumPy cosine similarity search, and Streamlit.
 
 [Source Code](https://github.com/cychen9920/InteriorStyle) 
+
+## 🍳 Mini GPT Recipes: Decoder-Only Transformer From Scratch
+
+A small character-level GPT model trained on recipes to generate recipe-style text. Implemented a decoder-only Transformer from scratch in PyTorch, including tokenization, causal self-attention, Transformer blocks, training, validation loss tracking, and text generation.
+
+[Source Code](https://github.com/cychen9920/Mini-GPT-Recipes)
 
 ## 🌎 Interactive Map Project
 
