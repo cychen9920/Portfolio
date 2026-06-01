@@ -18,13 +18,13 @@ A semantic search app for interior design inspiration. Users can search a local 
 
 A small character-level GPT model trained on recipes to generate recipe-style text. Implemented a decoder-only Transformer from scratch in PyTorch, including tokenization, causal self-attention, Transformer blocks, training, validation loss tracking, and text generation.
 
-[Source Code](https://github.com/cychen9920/Mini-GPT-Recipes)
+[Source Code](https://github.com/cychen9920/recipeGPT)
 
 ## 🛰️ EuroSAT Image Classifier
 
 A computer vision model that fine-tunes a pretrained ResNet18 CNN to classify satellite images into land-use categories (e.g., residential, highway, forest, river, and industrial). Built with Python, PyTorch, torchvision, transfer learning, image augmentations, and scikit-learn evaluation metrics (accuracy, F1 score, and a confusion matrix).
 
-[Source Code](https://github.com/cychen9920/EuroSAT-Image-Classifier)
+[Source Code](https://github.com/cychen9920/EuroSAT_ResNet18)
 
 ## 🌎 Interactive Map Project
 
