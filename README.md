@@ -20,6 +20,12 @@ A small character-level GPT model trained on recipes to generate recipe-style te
 
 [Source Code](https://github.com/cychen9920/Mini-GPT-Recipes)
 
+## 🛰️ EuroSAT Image Classifier
+
+A computer vision model that fine-tunes a pretrained ResNet18 CNN to classify satellite images into land-use categories (e.g., residential, highway, forest, river, and industrial). Built with Python, PyTorch, torchvision, transfer learning, image augmentations, and scikit-learn evaluation metrics (accuracy, F1 score, and a confusion matrix).
+
+[Source Code](https://github.com/cychen9920/EuroSAT-Image-Classifier)
+
 ## 🌎 Interactive Map Project
 
 An interactive Google Map app where users can add, view, and delete custom markers. Built with React, Express, Render, and Netlify.
